@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 11 14:17:52 2017
 
-@author: y_moh
+@author:  Yaser M. Taheri
 """
 import tensorflow as tf
 import numpy as np
