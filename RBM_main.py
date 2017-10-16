@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 11 15:19:43 2017
 
-@author: y_moh
+@author: Yaser M. Taheri
 """
 
 from RBM import RBM
